@@ -14,7 +14,7 @@ struct FirstView: View {
                 .resizable()
                 .scaledToFit()
                 .frame(width: 100, height: 100)
-                .foregroundColor(.red)
+                .foregroundColor(.green)
                 .padding(.top, 50)
 
             Text("Welcome Home - Léo")
