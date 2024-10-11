@@ -17,7 +17,7 @@ struct FirstView: View {
                 .foregroundColor(.green)
                 .padding(.top, 50)
 
-            Text("Welcome Students")
+            Text("Welcome Home - Léo")
                 .font(.title)
                 .bold()
                 .padding(.top, 20)
